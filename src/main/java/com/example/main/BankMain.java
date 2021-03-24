@@ -40,6 +40,7 @@ public class BankMain {
 
 	
 	do {
+		log.info("---------------gaurav bankapp-----------------");
 		log.info(" 0.exit");
 		log.info(" 1.customer login");
 		log.info(" 2.regiter an account as an customer");

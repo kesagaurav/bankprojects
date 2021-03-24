@@ -1,0 +1,149 @@
+{INFO} -  [com.example.main.BankMain]  -   0.exit
+{INFO} -  [com.example.main.BankMain]  -   1.customer login
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account
+{INFO} -  [com.example.main.BankMain]  -   5.employee login
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber
+{INFO} -  [com.example.main.BankMain]  -  
+ enter account number to get the balance
+{INFO} -  [com.example.main.BankMain]  -  balance found with the 123456
+{INFO} -  [com.example.main.BankMain]  -   the balance is 12000.0
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber
+{INFO} -  [com.example.main.BankMain]  -  gaurav bankapp
+{INFO} -  [com.example.main.BankMain]  -   0.exit
+{INFO} -  [com.example.main.BankMain]  -   1.customer login
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account
+{INFO} -  [com.example.main.BankMain]  -   5.employee login
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice
+{INFO} -  [com.example.main.BankMain]  -  
+ please try the choice between 1 to 6
+{INFO} -  [com.example.main.BankMain]  -  gaurav bankapp
+{INFO} -  [com.example.main.BankMain]  -   0.exit
+{INFO} -  [com.example.main.BankMain]  -   1.customer login
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account
+{INFO} -  [com.example.main.BankMain]  -   5.employee login
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice
+{INFO} -  [com.example.main.BankMain]  -  
+ enter id
+{INFO} -  [com.example.main.BankMain]  -  
+ enter password
+{INFO} -  [com.example.customer.dao.impl.CustomerDaoImpl]  -  successfully logged in
+{INFO} -  [com.example.main.BankMain]  -  gaurav bankapp
+{INFO} -  [com.example.main.BankMain]  -   0.exit
+{INFO} -  [com.example.main.BankMain]  -   1.customer login
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account
+{INFO} -  [com.example.main.BankMain]  -   5.employee login
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice
+{INFO} -  [com.example.main.BankMain]  -  the employee details are
+{INFO} -  [com.example.main.BankMain]  -  
+ enter the employee id
+{INFO} -  [com.example.main.BankMain]  -  
+ enter an password
+{INFO} -  [com.example.employee.dao.immpl.EmployeeDaoImpl]  -  successfully employee has logged in 
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your id
+{INFO} -  [com.example.main.BankMain]  -  gaurav bankapp     2021-03-25 05:04:54,255
+{INFO} -  [com.example.main.BankMain]  -   0.exit     2021-03-25 05:04:54,256
+{INFO} -  [com.example.main.BankMain]  -   1.customer login     2021-03-25 05:04:54,256
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer     2021-03-25 05:04:54,256
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer     2021-03-25 05:04:54,256
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account     2021-03-25 05:04:54,257
+{INFO} -  [com.example.main.BankMain]  -   5.employee login     2021-03-25 05:04:54,257
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount     2021-03-25 05:04:54,257
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice     2021-03-25 05:04:54,257
+{INFO} -  [com.example.main.BankMain]  -  
+ plz enter the customer detais to register      2021-03-25 05:05:12,364
+{INFO} -  [com.example.main.BankMain]  -  
+ enter id     2021-03-25 05:05:12,365
+{INFO} -  [com.example.main.BankMain]  -  
+ enter firstname     2021-03-25 05:05:14,946
+{INFO} -  [com.example.main.BankMain]  -  
+ enter an lastname     2021-03-25 05:05:16,909
+{INFO} -  [com.example.main.BankMain]  -  
+ enter date of birth     2021-03-25 05:05:18,378
+{INFO} -  [com.example.main.BankMain]  -  
+ enter password     2021-03-25 05:05:22,437
+{INFO} -  [com.example.customer.dao.impl.CustomerDaoImpl]  -  successfully added to the database 1     2021-03-25 05:05:26,357
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance     2021-03-25 05:05:26,360
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber     2021-03-25 05:05:26,360
+{INFO} -  [com.example.main.BankMain]  -  gaurav bankapp     2021-03-25 05:05:59,948
+{INFO} -  [com.example.main.BankMain]  -   0.exit     2021-03-25 05:05:59,949
+{INFO} -  [com.example.main.BankMain]  -   1.customer login     2021-03-25 05:05:59,949
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -   5.employee login     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice     2021-03-25 05:05:59,950
+{INFO} -  [com.example.main.BankMain]  -  ---------------gaurav bankapp-----------------     2021-03-25 05:06:18,621
+{INFO} -  [com.example.main.BankMain]  -   0.exit     2021-03-25 05:06:18,622
+{INFO} -  [com.example.main.BankMain]  -   1.customer login     2021-03-25 05:06:18,622
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer     2021-03-25 05:06:18,622
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer     2021-03-25 05:06:18,622
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account     2021-03-25 05:06:18,623
+{INFO} -  [com.example.main.BankMain]  -   5.employee login     2021-03-25 05:06:18,623
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount     2021-03-25 05:06:18,623
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice     2021-03-25 05:06:18,623
+{INFO} -  [com.example.main.BankMain]  -  ---------------gaurav bankapp----------------- Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   0.exit Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   1.customer login Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   5.employee login Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice Mar-25-21 Thu IST 05:10:48
+{INFO} -  [com.example.main.BankMain]  -  the employee details are Mar-25-21 Thu IST 05:12:18
+{INFO} -  [com.example.main.BankMain]  -  
+ enter the employee id Mar-25-21 Thu IST 05:12:18
+{INFO} -  [com.example.main.BankMain]  -  
+ enter an password Mar-25-21 Thu IST 05:12:20
+{INFO} -  [com.example.employee.dao.immpl.EmployeeDaoImpl]  -  successfully employee has logged in  Mar-25-21 Thu IST 05:12:24
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your id Mar-25-21 Thu IST 05:12:24
+{INFO} -  [com.example.main.BankMain]  -  ---------------gaurav bankapp-----------------   2021-03-25 05:13:55,470
+{INFO} -  [com.example.main.BankMain]  -   0.exit   2021-03-25 05:13:55,471
+{INFO} -  [com.example.main.BankMain]  -   1.customer login   2021-03-25 05:13:55,471
+{INFO} -  [com.example.main.BankMain]  -   2.regiter an account as an customer   2021-03-25 05:13:55,471
+{INFO} -  [com.example.main.BankMain]  -   3.register an new customer   2021-03-25 05:13:55,471
+{INFO} -  [com.example.main.BankMain]  -   4.as a customer you can view a balance for specific account   2021-03-25 05:13:55,472
+{INFO} -  [com.example.main.BankMain]  -   5.employee login   2021-03-25 05:13:55,472
+{INFO} -  [com.example.main.BankMain]  -   6.withdrawl an amount   2021-03-25 05:13:55,472
+{INFO} -  [com.example.main.BankMain]  -  
+ enter your choice   2021-03-25 05:13:55,472
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance   2021-03-25 05:14:01,604
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber   2021-03-25 05:14:01,604
+{INFO} -  [com.example.main.BankMain]  -  
+ enter account number to get the balance   2021-03-25 05:14:03,526
+{INFO} -  [com.example.main.BankMain]  -  
+ invalid balance   2021-03-25 05:14:11,303
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance   2021-03-25 05:14:11,304
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber   2021-03-25 05:14:11,304
+{INFO} -  [com.example.main.BankMain]  -  
+ enter account number to get the balance   2021-03-25 05:14:22,800
+{INFO} -  [com.example.main.BankMain]  -  balance found with the 16000   2021-03-25 05:14:26,550
+{INFO} -  [com.example.main.BankMain]  -   the balance is 123000.0   2021-03-25 05:14:26,552
+{INFO} -  [com.example.main.BankMain]  -  select beow option to search a balance   2021-03-25 05:14:26,552
+{INFO} -  [com.example.main.BankMain]  -  1)By AccountNumber   2021-03-25 05:14:26,552
