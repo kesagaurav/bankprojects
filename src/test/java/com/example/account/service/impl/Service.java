@@ -46,8 +46,8 @@ public class Service {
 	@Test
 	public  void testvalidisCredentials() {
 		Customer c=new Customer(1,"gaurav","kesa","1998-11-19","abc123");
-		Transaction t=new Transaction("withdrawl","approved",12000,"12-11-1998","123456");
-		Account a=new Account(13,12000,c,"123456",t);
+		//Transaction t=new Transaction("withdrawl","approved",12000,"12-11-1998","123456");
+		Account a=new Account(12000,c,"123456");
 		try {
 			assertEquals(0,service.addAccount(a));
 		} catch (BusinessException e) {

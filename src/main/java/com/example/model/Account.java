@@ -4,24 +4,43 @@ import java.util.List;
 
 public class Account {
 
+
 	private int id;
 	private float balance;
 	private Customer customer;
 	private String accountnumber;
-	private Transaction transaction;
+
 	
 	public Account() {
 		super();
 	}
 
-	public Account(int id, float balance, Customer customer,String accountnumber,Transaction transaction) {
+	public Account(int id, float balance, Customer customer,String accountnumber) {
 		super();
 		this.id = id;
 		this.balance = balance;
 		this.customer = customer;
 		this.accountnumber=accountnumber;
-		this.transaction=transaction;
+		//this.transaction=transaction;
 	}
+	
+	
+	
+	public Account(float balance, Customer customer, String accountnumber) {
+		super();
+		this.balance = balance;
+		this.customer = customer;
+		this.accountnumber = accountnumber;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
 
 	public int getId() {
 		return id;
@@ -58,18 +77,12 @@ public class Account {
 	
 	
 
-	public Transaction getTransaction() {
-		return transaction;
-	}
-
-	public void setTransaction(Transaction transaction) {
-		this.transaction = transaction;
-	}
+	
 
 	@Override
 	public String toString() {
 		return "Account [id=" + id + ", balance=" + balance + ", customer=" + customer + ", accountnumber="
-				+ accountnumber + ", transaction=" + transaction + "]";
+				+ accountnumber + "]";
 	}
 
 	

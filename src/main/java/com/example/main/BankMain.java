@@ -206,6 +206,10 @@ public class BankMain {
 			}catch(NumberFormatException e){
 				log.warn(e.getMessage());
 			}
+			
+			default:
+			log.info("\n please try the choice between 1 to 6");
+			break;
 		}
 		
 

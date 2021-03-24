@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
-
+import org.junit.jupiter.api.BeforeAll;
 
 import com.example.account.service.AccountSearchService;
 import com.example.exception.BusinessException;
@@ -20,7 +20,7 @@ public class AccountSearchImplTest {
 		Customer c=new Customer();
 		
 		
-		@Before
+		@BeforeAll
 		public  void setUpService() {
 			service=new AccountSearchImpl();
 		}
@@ -28,7 +28,8 @@ public class AccountSearchImplTest {
 
 	@Test
 	public void test() throws BusinessException {
-		assertEquals(false,service.getAccountByAccountNumber("123456").equals(a));
+		String accountnumber="123456";
+		assertEquals(false,service.getAccountByAccountNumber(accountnumber));
 		
 	}
 
