@@ -58,11 +58,16 @@ public class AccountDaoImpl implements AccountDao {
 			ResultSet rs=ps.executeQuery();
 			while(rs.next()) {
 				newBalance=rs.getFloat("balance")-withdrawl.getAmount();
-				if(!AccountValidation.isValidTransactionAmount(newBalance)) {
-					log.warn("\n insufficient funds");
+				if(newBalance<0) {
+					log.info("insufficielnt funds");
+					
+				}
+				if(AccountValidation.isValidTransactionAmount(newBalance)) {
+					log.warn("\n insufficient funds plz try or add anthor money");
 					throw new BusinessException();
 					
 				}
+				log.info("your remaining balance is" + newBalance);
 				sql="update bank_schema.account set balance=? where  accountnumber=?";
 				ps=con.prepareStatement(sql);
 				ps.setFloat(1,newBalance);

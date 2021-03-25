@@ -12,22 +12,10 @@ import com.example.model.Transaction;
 
 public class Service {
 
-	
-
-
-
-
-
-
 	public Service() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
-
-
-
-
 
 	public static AccountServiceImpl service;
 	
@@ -38,10 +26,7 @@ public class Service {
 		service=new AccountServiceImpl() ;
 	}
 	
-	
-	
-	
-	
+
 	
 	@Test
 	public  void testvalidisCredentials() {
